@@ -1,0 +1,51 @@
+  input[type="text"]{
+        width: 300px;
+        height: 34px;
+        border-bottom: 0px;
+        box-shadow: 0 0 10px #eee;
+        border-radius: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        font-family: impact;
+        font-size: 16px;
+      }
+ input[type="submit"]{
+        width:70px;
+        height: 32px;
+        background: #002244;
+        font-size: 20px;
+        font-family: impact;
+        color: #fff;
+        border: 0px;
+        border-radius: 3px;
+        letter-spacing: 0.05em;
+        margin-top: 10px;
+      }
+      input[type="email"]{
+        width:70px;
+        height: 32px;
+        background: #002244;
+        font-size: 20px;
+        font-family: impact;
+        color: #fff;
+        border: 0px;
+        border-radius: 3px;
+        letter-spacing: 0.05em;
+        margin-top: 10px;
+      }
+      input[type="password"]{
+        width:70px;
+        height: 32px;
+        background: #002244;
+        font-size: 20px;
+        font-family: impact;
+        color: #fff;
+        border: 0px;
+        border-radius: 3px;
+        letter-spacing: 0.05em;
+        margin-top: 10px;
+      }
+      h3{font-weight: 800; margin-left: 37px;}
+      
+    #tinymce{font-size:15px !important;}
+   
